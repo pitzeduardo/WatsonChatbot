@@ -1,0 +1,11 @@
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\bin\Debug\netcoreapp2.1\ZezinhoBot.deps.json
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\bin\Debug\netcoreapp2.1\ZezinhoBot.runtimeconfig.json
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\bin\Debug\netcoreapp2.1\ZezinhoBot.runtimeconfig.dev.json
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\bin\Debug\netcoreapp2.1\ZezinhoBot.dll
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\bin\Debug\netcoreapp2.1\ZezinhoBot.pdb
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\obj\Debug\netcoreapp2.1\ZezinhoBot.csprojAssemblyReference.cache
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\obj\Debug\netcoreapp2.1\ZezinhoBot.csproj.CoreCompileInputs.cache
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\obj\Debug\netcoreapp2.1\ZezinhoBot.AssemblyInfoInputs.cache
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\obj\Debug\netcoreapp2.1\ZezinhoBot.AssemblyInfo.cs
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\obj\Debug\netcoreapp2.1\ZezinhoBot.dll
+C:\Pitz.Doc\Projetos\ZezinhoBot\ConsoleApp\ZezinhoBot\ZezinhoBot\obj\Debug\netcoreapp2.1\ZezinhoBot.pdb
